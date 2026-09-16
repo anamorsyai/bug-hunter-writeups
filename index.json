@@ -14,5 +14,13 @@
     "date": "2026-08-05",
     "vuln": "RCE / Code Injection",
     "bounty": "$12,000"
+  },
+  {
+    "title": "Khan Academy Regex Redirect 1-Click ATO",
+    "file": "2026/2026-06-20-khan-academy-regex-redirect-ato.md",
+    "source_url": "https://hackerone.com/reports/3723458",
+    "date": "2026-06-20",
+    "vuln": "Open Redirect / Regex Bypass / ATO",
+    "bounty": "Critical 9.6"
   }
 ]
