@@ -7,6 +7,7 @@ Start here for 2026 > 2025 > 2024, focused on commonly found + high-paid: IDOR, 
 
 | Date | Title | Vuln | Bounty | Source |
 |------|-------|------|--------|--------|
+| 2026-08-05 | [Mozilla Taskcluster GraphQL sift RCE](2026/2026-08-05-mozilla-taskcluster-graphql-rce.md) | RCE / Code Injection | $12,000 | [H1 #3782701](https://hackerone.com/reports/3782701) |
 | 2025-02-26 | [GitLab Password Reset Type-Confusion to 0-Click ATO](2025/2025-02-26-gitlab-password-reset-ato.md) | Auth Takeover / CWE-843 | $35,000 | [H1 #2293343](https://hackerone.com/reports/2293343) |
 
 ## Structure
