@@ -22,5 +22,13 @@
     "date": "2026-06-20",
     "vuln": "Open Redirect / Regex Bypass / ATO",
     "bounty": "Critical 9.6"
+  },
+  {
+    "title": "Essity WP Batch Blind SQLi",
+    "file": "2026/2026-07-21-essity-wp-batch-sqli.md",
+    "source_url": "https://hackerone.com/reports/3873072",
+    "date": "2026-07-21",
+    "vuln": "SQL Injection / Blind",
+    "bounty": "Critical 9.3"
   }
 ]

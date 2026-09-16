@@ -7,6 +7,7 @@ Start here for 2026 > 2025 > 2024, focused on commonly found + high-paid: IDOR, 
 
 | Date | Title | Vuln | Bounty | Source |
 |------|-------|------|--------|--------|
+| 2026-07-21 | [Essity WP Batch Blind SQLi](2026/2026-07-21-essity-wp-batch-sqli.md) | SQLi Blind | Critical 9.3 | [H1 #3873072](https://hackerone.com/reports/3873072) |
 | 2026-06-20 | [Khan Academy Regex Redirect 1-Click ATO](2026/2026-06-20-khan-academy-regex-redirect-ato.md) | Open Redirect / ATO | Critical 9.6 | [H1 #3723458](https://hackerone.com/reports/3723458) |
 | 2026-08-05 | [Mozilla Taskcluster GraphQL sift RCE](2026/2026-08-05-mozilla-taskcluster-graphql-rce.md) | RCE / Code Injection | $12,000 | [H1 #3782701](https://hackerone.com/reports/3782701) |
 | 2025-02-26 | [GitLab Password Reset Type-Confusion to 0-Click ATO](2025/2025-02-26-gitlab-password-reset-ato.md) | Auth Takeover / CWE-843 | $35,000 | [H1 #2293343](https://hackerone.com/reports/2293343) |
