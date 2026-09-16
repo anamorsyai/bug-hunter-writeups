@@ -21,11 +21,9 @@ Ask in chat:
 - `give me XSS writeup 2025`
 - `fetch hackerone IDOR high bounty`
 
-Skill `bug-hunter-writeups` auto-triggers, fetches live, enhances, saves here, and git pushes if `origin` exists.
+Skill `bug-hunter-writeups` auto-triggers, fetches live, enhances, saves here, and auto-pushes to `main`.
 
-To enable push:
+Repo: https://github.com/anamorsyai/bug-hunter-writeups (this folder is the repo root).
 ```bash
-cd /workspace
-git init 2>/dev/null; git remote add origin <your-github-url> 2>/dev/null || true
-git add writeups/ && git commit -m "add writeups" && git push -u origin main
+git -C /workspace/writeups add . && git -C /workspace/writeups commit -m "add writeup: <slug>" && git -C /workspace/writeups push origin main
 ```
