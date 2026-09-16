@@ -1,0 +1,1 @@
+[{"bounty": "$35,000", "date": "2025-02-26", "file": "2025/2025-02-26-gitlab-password-reset-ato.md", "source_url": "https://hackerone.com/reports/2293343", "title": "GitLab Password Reset Type-Confusion to 0-Click ATO", "vuln": "Auth Takeover / Type Confusion"}]
