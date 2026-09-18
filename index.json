@@ -1,5 +1,13 @@
 [
   {
+    "title": "No Username. No Password. Just a Header - Basic Auth Presence Bypass",
+    "file": "2026/2026-06-03-basic-auth-header-presence-bypass.md",
+    "source_url": "https://medium.com/@0xalr/no-username-no-password-just-a-header-a-3-000-authentication-bypass-9b42432b6c69",
+    "date": "2026-06-03",
+    "vuln": "Authentication Bypass / Basic Auth Fail-Open",
+    "bounty": "$3,000"
+  },
+  {
     "bounty": "$35,000",
     "date": "2025-02-26",
     "file": "2025/2025-02-26-gitlab-password-reset-ato.md",
