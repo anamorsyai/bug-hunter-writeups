@@ -30,5 +30,13 @@
     "date": "2026-07-21",
     "vuln": "SQL Injection / Blind",
     "bounty": "Critical 9.3"
+  },
+  {
+    "title": "NASA CMR XXE Regex Bypass to SSRF",
+    "file": "2026/2026-03-17-nasa-cmr-xxe-regex-bypass.md",
+    "source_url": "https://bugcrowd.com/disclosures/9d2c7b28-7ff7-439c-9149-f74a883815e3/xml-external-entity-xxe-injection-via-regex-bypass-in-cmr-aql-parsing-enables-ssrf-service-enumeration-and-blind-file-reads",
+    "date": "2026-03-17",
+    "vuln": "XXE / SSRF / Regex Bypass",
+    "bounty": "P1 Critical 9.1"
   }
 ]
